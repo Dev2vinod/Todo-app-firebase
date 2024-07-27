@@ -7,3 +7,6 @@
 
  f. bina slash ke bhi kam ho jata hai
 
+    
+   g. <img src="./sun shine.png" alt="">
+  
