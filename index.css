@@ -1,0 +1,15 @@
+
+
+ body{
+    background-color: rgb(15 23 42);
+    /* color: rgb(148 163 184); */
+    color: greenyellow;
+ }
+
+ .list-item{
+    /* background-color: rgba(56, 191, 248, 0.32); */
+    background-color: #64748b5f;
+    /* color: black; */
+    color: greenyellow;
+
+ }
