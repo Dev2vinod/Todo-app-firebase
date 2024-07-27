@@ -5,3 +5,5 @@
 
  'e.ABHI LIST KO CENTER KARNE KE PROBLEM HAI'
 
+ f. bina slash ke bhi kam ho jata hai
+
